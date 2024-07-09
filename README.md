@@ -1,4 +1,4 @@
-# E-SPORTS-AND-GAMING-IN-AFRICA
+# E-SPORTS-AND-GAMING-IN-AFRICA.A project about E-sports and Gaming in Africa,with insight and recommedations about Gaming in Africa generally.
 Africa E-sports and Gaming
 Overview
 This README provides information and insights on the e-sports and gaming scene in Africa.
